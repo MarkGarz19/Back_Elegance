@@ -1,0 +1,76 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Chaqueta Azul para Mujer",
+            "price": "55.99",
+            "description": "Chaqueta azul excelentes para primavera/otoño, adecuadas para muchas ocasiones como salir con los amigos o viajar..",
+            "image": "assets/img/mujer-chaqueta-azul.jpg",
+            "rating": 5
+        },
+        {
+            "id": 2,
+            "title": "Chaqueta Deportiva Roja para Hombre",
+            "price": "59.99",
+            "description": "Abrigo de alta calidad perfecto para primavera/otoño/invierno, ideal para diversas ocasiones como fiestas, salidas informales o viajes. Un regalo ideal para cualquier hombre en tu vida.",
+            "image": "assets/img/chaqueta-hombre-roja.jpg",
+            "rating": 4.5
+        },
+        {
+            "id": 3,
+            "title": "Vestido Blanco para Mujer",
+            "price": "29.99",
+            "description": "Un vestido blanco para mujer ideal para la ocasión de verano, primavera. Ideal para salir a la playa, ir a una fiesta o una boda. Un regalo ideal para cualquier mujer en tu vida.",
+            "image": "assets/img/mujer-vestido-blanco.jpg",
+            "rating": 3.9
+        },
+        {
+            "id": 4,
+            "title": "Vestido de Noche para Niña",
+            "price": "49.99",
+            "description": "Elegante vestido de noche para niña, perfecto para ocasiones especiales como bodas, fiestas de gala, cenas formales y eventos importantes. Te hará lucir deslumbrante y sofisticada. Un regalo magnífico para cualquier niña.",
+            "image": "assets/img/vestido-negro-niña.jpg",
+            "rating": 4.2
+        },
+        {
+            "id": 5,
+            "title": "Camiseta Negra para Hombre",
+            "price": "39.99",
+            "description": "Camiseta negra ideal para primavera/verano, ideal para la ocasión de salir con los amigos. Un regalo ideal para cualquier hombre en tu vida.",
+            "image": "assets/img/camiseta-negro-hombre.jpg",
+            "rating": 4.8
+        },
+        {
+            "id": 6,
+            "title": "Vestido con Plumas para Niña",
+            "price": "39.99",
+            "description": "Adorable vestido de plumas azules para niña, ideal para la ocasiones de primavera/otoño. Un regalo ideal para cualquier niña en tu vida.",
+            "image": "assets/img/vestido-estampado-niña.jpg",
+            "rating": 3.7
+        },
+        {
+            "id": 7,
+            "title": "Camisa de Ninjago para Niño",
+            "price": "29.99",
+            "description": "Camisa de Anime de la Serie de Ninjago para niño, ideal para las ocasiones de primavera/verano. Un regalo ideal para cualquier niño en tu vida.",
+            "image": "assets/img/camisa-anime-niño.jpg",
+            "rating": 4.1
+        },
+        {
+            "id": 8,
+            "title": "Camisa Azul Marino estampado de dinosario para Niños",
+            "price": "14.99",
+            "description": "Camisa azul marino con estampado de dinosario para niños, ideal para la ocasiones de primavera/verano. Un regalo ideal para cualquier niño en tu vida.",
+            "image": "assets/img/camisa-golf-azulmarino-niño.jpg",
+            "rating": 2.1
+        },
+        {
+            "id": 9,
+            "title": "Sudadera Azul Marino para Hombre",
+            "price": "34.99",
+            "description": "Sudadera de hombre Azul Marino para otoño/invierno, ideal para las ocasiones de salir con los amigos. Un regalo ideal para cualquier hombre en tu vida.",
+            "image": "assets/img/sudadera-azulmarino-hombre.jpg",
+            "rating": 5
+        }
+    ]
+}
